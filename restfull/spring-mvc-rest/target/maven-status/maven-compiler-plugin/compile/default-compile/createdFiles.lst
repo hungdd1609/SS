@@ -1,0 +1,3 @@
+com\goSmarter\activiti\loanrequest\web\LoanRequestEditor.class
+com\goSmarter\activiti\loanrequest\domain\LoanRequest.class
+com\goSmarter\activiti\loanrequest\web\LoanRequestController.class
